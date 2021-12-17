@@ -78,7 +78,7 @@
                   <div class="text-contant">
                      <h2>
                         <span class="center"><span class="icon"><img src="images/icon-logo.png" alt="#" /></span></span>
-                        <a href="" class="typewrite" data-period="2000" data-type='[ "Life Carega Xush kelibsiz", "Biz Sizning Sog`liqingiz uchun g`amxormiz", "Biz Eng Zo`rimiz" ]'>
+                        <a href="" class="typewrite" data-period="2000" data-type='[ "Life Carega Xush kelibsiz", "Wellcome to Life-care", "Добро пожаловать в Life-Care" ]'>
                         <span class="wrap"></span>
                         </a>
                      </h2>
